@@ -20,23 +20,23 @@
     {
       "name": "1",
       "author": "alice",
-      "url": "https://github.com/vladqwerty435/AliceWallpapers/raw/master/1477847379.jpg",
+      "url": "https://raw.githubusercontent.com/vladqwerty435/AliceWallpapers/master/1477847379.jpg",
       "collections": "1",
       "downloadable": true
     },
     {
       "name": "2",
       "author": "alice rew",
-      "url": "https://github.com/vladqwerty435/AliceWallpapers/raw/master/web_hi_res_512.png",
+      "url": "https://raw.githubusercontent.com/vladqwerty435/AliceWallpapers/master/web_hi_res_512.png",
      
       "collections": "2",
       "downloadable": false
     },
     {
       "author": "alifas",
-      "url": "https://github.com/vladqwerty435/AliceWallpapers/raw/master/10ShelbyGT500_07_HR-1.jpg",
+      "url": "https://raw.githubusercontent.com/vladqwerty435/AliceWallpapers/master/10ShelbyGT500_07_HR-1.jpg",
       "name": "3",
-      "collections": "3"
+      "collections": "3",
       "downloadable": false
     }
 
