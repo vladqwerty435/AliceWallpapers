@@ -1,0 +1,44 @@
+{
+  "Collections": [
+    {
+      "name": "1",
+      "preview_url": "https://github.com/vladqwerty435/AliceWallpapers/raw/master/10ShelbyGT500_07_HR-1.jpg",
+      "preview_thumbnail_url": "https://github.com/vladqwerty435/AliceWallpapers/raw/master/10ShelbyGT500_07_HR-1.jpg"
+    },
+    {
+      "name": "2",
+      "preview_url": "https://github.com/vladqwerty435/AliceWallpapers/raw/master/web_hi_res_512.png",
+      "preview_thumbnail_url": "https://github.com/vladqwerty435/AliceWallpapers/raw/master/web_hi_res_512.png"
+    },
+    {
+      "name": "3",
+      "preview_url": "https://github.com/vladqwerty435/AliceWallpapers/raw/master/1477847379.jpg",
+      "preview_thumbnail_url": "https://github.com/vladqwerty435/AliceWallpapers/raw/master/1477847379.jpg"
+    }
+  ],
+  "Wallpapers": [
+    {
+      "name": "1",
+      "author": "alice",
+      "url": "https://github.com/vladqwerty435/AliceWallpapers/raw/master/1477847379.jpg",
+      "collections": "1",
+      "downloadable": true
+    },
+    {
+      "name": "2",
+      "author": "alice rew",
+      "url": "https://github.com/vladqwerty435/AliceWallpapers/raw/master/web_hi_res_512.png",
+     
+      "collections": "2",
+      "downloadable": false
+    },
+    {
+      "author": "alifas",
+      "url": "https://github.com/vladqwerty435/AliceWallpapers/raw/master/10ShelbyGT500_07_HR-1.jpg",
+      "name": "3",
+      "collections": "3"
+      "downloadable": false
+    }
+
+  ]
+}
